@@ -1,0 +1,1 @@
+print("Kuznetsova Anna, AI-3")
